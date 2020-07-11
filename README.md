@@ -10,7 +10,7 @@ The Asterisk project improved a lot in the year after this presentation as shown
 
 `apt-get install ncurses-dev build-essential libssl-dev libpcap-dev libncurses5-dev libsctp-dev lksctp-tools`\
 `git clone https://github.com/SIPp/sipp.git`\
-`cd sipp'\
+`cd sipp`\
 `./build.sh`\
 `cp sipp \usr\bin`
 
