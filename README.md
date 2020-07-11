@@ -1,4 +1,4 @@
-# astricon2017
+# Astricon 2017, comparing chan_sip versus pjsip
 
 SIPP XML files and conf files for the presentation chan_sip versus han_pjsip
 
