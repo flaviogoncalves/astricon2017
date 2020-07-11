@@ -16,6 +16,10 @@ The Asterisk project improved a lot in the year after this presentation as shown
 
 # utilities installation
 
+`cd /usr/src`\
+`git clone https://github.com/flaviogoncalves/astricon2017.git`\
+`cd astricon2017`
+
 # Echo test with no media or authentication
 
 Command Line
